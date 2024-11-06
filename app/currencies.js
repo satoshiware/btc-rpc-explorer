@@ -14,6 +14,21 @@ global.currencyTypes = {
 		multiplier:100000000,
 		decimalPlaces:0
 	},
+	"AZC": {
+		id: "AZC",
+		type:"native",
+		name:"AZC",
+		multiplier:1,
+		default:true,
+		decimalPlaces:8
+	},
+	"SAGZ": {
+		id: "SAGZ",
+		type:"native",
+		name:"SAGZ",
+		multiplier:100000000,
+		decimalPlaces:0
+	},
 	"usd": {
 		id: "usd",
 		type:"exchanged",
